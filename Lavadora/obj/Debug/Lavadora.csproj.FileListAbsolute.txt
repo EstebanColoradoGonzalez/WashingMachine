@@ -1,0 +1,11 @@
+D:\Users\Esteban\Repositories\.NET\Lavadora\Lavadora\bin\Debug\Lavadora.exe.config
+D:\Users\Esteban\Repositories\.NET\Lavadora\Lavadora\bin\Debug\Lavadora.exe
+D:\Users\Esteban\Repositories\.NET\Lavadora\Lavadora\bin\Debug\Lavadora.pdb
+D:\Users\Esteban\Repositories\.NET\Lavadora\Lavadora\obj\Debug\Lavadora.csproj.AssemblyReference.cache
+D:\Users\Esteban\Repositories\.NET\Lavadora\Lavadora\obj\Debug\Lavadora.csproj.SuggestedBindingRedirects.cache
+D:\Users\Esteban\Repositories\.NET\Lavadora\Lavadora\obj\Debug\Lavadora.Properties.Resources.resources
+D:\Users\Esteban\Repositories\.NET\Lavadora\Lavadora\obj\Debug\Lavadora.csproj.GenerateResource.cache
+D:\Users\Esteban\Repositories\.NET\Lavadora\Lavadora\obj\Debug\Lavadora.csproj.CoreCompileInputs.cache
+D:\Users\Esteban\Repositories\.NET\Lavadora\Lavadora\obj\Debug\Lavadora.exe
+D:\Users\Esteban\Repositories\.NET\Lavadora\Lavadora\obj\Debug\Lavadora.pdb
+D:\Users\Esteban\Repositories\.NET\Lavadora\Lavadora\obj\Debug\Lavadora.Lavadora.resources
